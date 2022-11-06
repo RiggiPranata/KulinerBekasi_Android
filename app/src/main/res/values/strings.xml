@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">UTS252</string>
+    <string name="wiskun">Wisata Kuliner Khas Bekasi</string>
+    <string name="kuliner1">Gabus Pucung</string>
+    <string name="kuliner2">Bandeng Rorod</string>
+    <string name="kuliner3">Kue Rangi</string>
+    <string name="gabus1">
+        Gabus Pucung, kuliner berkuah hitam dari Betawi ini semakin meredup namanya.
+        Seiring dengan perkembangan kota Jakarta juga tergesernya masyarakat Betawi ke daerah pinggiran,
+        beberapa kuliner pun sulit ditemui kembali, salah satunya Gabus Pucung.
+        Kuliner ini sekarang lebih banyak ditemui di pinggiran Jakarta seperti Bekasi, Depok, dan Tangerang.
+        Padahal olahan ikan bernama latin Channa striata tersebut menjadi kuliner khas dengan citra rasa menggugah selera.
+        Sayurnya yang berwarna hitam pekat dari pucung (kluwek) ini memang memberikan rasa gurih kepada olahan ikan tersebut.
+        Pucung atau kluwek biasa dikenal dengan sebagai bumbu rawon
+        . Jika rawon menggunakan daging, sayur gabus puncung menggunakan ikan gabus.
+    </string>
+    <string name="gabus2">
+        Menurut sejarahnya, keberadaan kuliner sayur Gabus Pucung sendiri berawal dari ketidakmampuan masyarakat Betawi di zaman kolonial Belanda untuk mengkonsumsi ikan budidaya yang mahal, seperti ikan mas, mujair dan bandeng.
+        Namun agar tetap dapat mengkonsumsi ikan, masyarakat Betawi kemudian memilih ikan gabus yang jauh lebih murah. Apalagi jenis ikan ini mudah ditemui di daerah rawa-rawa, empang, dan sungai.
+        Seperti diketahui, wilayah Batavia sekarang Jakarta dan Bekasi merupakan kawasan yang dipenuhi dengan rawa-rawa serta area persawahan. Disebutkan ikan ini juga menggemari wilayah air tawar dengan kadar oksiden yang rendah, sehingga tak heran jika mereka bisa hidup liar di tempat tersebut.
+    </string>
+    <string name="bandeng1">
+        Bandeng Rorod adalah bandeng isi tanpa duri. Dulu, orang Betawi sering membuat Bandeng Rorod hanya pada momen tertentu saja. Namun di tangan bapak Afif Ridwan, kuliner tradisional ini diangkat kembali, bahkan menjadi ikon oleh-oleh khas Bekasi. Afif Ridwan memulai usahanya pada tahun 2011. Usaha ini awalnya dirintis oleh ibunya, Mpok Omah. Ide awal usaha ini adalah karena ia menilai Kota Bekasi belum memiliki oleh-oleh khas.
+        Awalnya Bandeng Rorod Mpok Omah menjual bandeng dalam keadaan matang, namun karena banyaknya pelanggan yang ingin membawa Bandeng Rorod Mpok Omah sebagai oleh-oleh akhirnya mulai tahun 2012 disediakan Bandeng Rorod beku (frozen) agar lebih tahan lama. Bandeng Rorod hanya dapat bertahan 24 jam saja dalam suhu ruang, namun jika dalam keadaan beku bisa tahan sampai 6 bulan. Berbeda dengan bandeng presto yang memiliki tulang dan duri lunak, Bandeng Rorod Mpok Omah tidak memiliki tulang dan duri.
+        Untuk menghilangkan tulang dan duri pada ikan bandeng, dilakukan dengan cara ditarik paksa tulang besarnya yang dalam bahasa Betawi disebut di rorod. Selanjutnya ikan yang sudah tanpa tulang tersebut dikeluarkan daging dari kulitnya dengan cara di kerok. Kemudian daging dipisahkan dari durinya. Pada awalnya, proses pemisahan duri ikan bandeng dilakukan secara manual menggunakan tangan. Pemisahan duri ikan bandeng menggunakan tangan yang selama ini dilakukan membutuhkan waktu yang lama sehingga tidak efisien dalam segi proses produksi.
+    </string>
+    <string name="bandeng2">
+        Akhirnya bertemulah Bapak Afif dengan teknologi mesin SuritechTM dan sangat tertarik dengan kinerja pemisahannya yang mencapai 80 kg/jam. Penggunaan mesin SuritechTM akan mampu meningkatkan efisiensi dan kapasitas produksi bandeng rorod. Pemisahan duri ikan bandeng sebanyak 5 kg hanya membutuhkan waktu tidak lebih dari 10 menit. Kini, Bapak Afif tidak khawatir lagi untuk memenuhi pesanan dalam jumlah besar. Selain dijual langsung, penjualan Bandeng Rorod juga dilakukan melalui agen dan outlet-outlet di tempat yang strategis.
+        Daging Bandeng yang telah dipisahkan durinya kemudian dicampur dengan bumbu-bumbu dan dimasukkan kembali di dalam ikan lalu dikukus sampai matang. Harga yang ditawarkan juga relative terjangkau yaitu sebesar Rp 25 ribu/pack. Selain menawarkan Bandeng Rorod, juga ada menu bandeng lainnya yaitu Batik Bandeng. Batik Bandeng sendiri merupakan singkatan dari Bakso Tahu Ikan Bandeng dan dibandrol seharga Rp 20 ribu/pack. Tidak perlu khawatir soal kesehatan dan kebersihannya karena Bandeng Rorod Mpok Omah tidak menggunakan MSG (Monosodium Glutamate) dan telah mengantongi berbagai sertifikat.
+    </string>
+    <string name="kue1">
+        Kue rangi merupakan kue khas Betawi yang legendaris. Kue rangi, atau juga disebut sagu rangi yang disajikan dengan tambahan gula merah kental. Mungkin tak banyak orang yang tahu soal kue ini, atau bahkan mungkin sulit membedakannya dengan kue lainnya seperti kue pancong atau bandros.
+        Adonan yang digarang ini merupakan bahan kering. Ucapnya, dia tak perlu menambahkan air ke dalam adonan, paling hanya tambah sedikit garam untuk menghasilkan rasa yang gurih.
+        Ketika digarang, parutan kelapa bakal mengeluarkan sedikit santan kental dan minyak yang bakal melarutkan sagu aren sehingga merekatkan semua bagian jadi satu.
+        Di bawahnya, arang kayu yang panas bakal mematangkan adonannya. Bukan cuma mematangkan adonan. Arang kayu ini juga memberikan sensasi rasa khas sendiri pada kuenya.
+    </string>
+    <string name="kue2">
+        Seporsi kue rangi biasanya dijajakan sebaris seukuran cetakan kuenya yang tipis namun bergelombang di bawahnya. Hanya dengan kertas nasi yang dipotong persegi panjang seukuran kuenya,
+        Kue ini paling nikmat jika disantap saat hangat. Ketika tekstur kuenya masih garing namun lembut dan gula merahnya masih meleleh dengan baik. Lain cerita kalau sudah dingin, teksturnya bakal sedikit alott dan gulanya juga sudah makin lengket.
+        Secangkir tea hangat tawar atau kopi pahit hangat bakal melengkapi rasanya yang sudah manis.
+    </string>
+    <string name="decs1">
+        "The metaphora"
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "when a user tries to pick up one of cards.\n\n"
+        "is the metaphor.\n\n"
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+</resources>

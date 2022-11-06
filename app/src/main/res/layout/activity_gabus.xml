@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:id="@+id/coorLayout"
+    tools:context=".gabusActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true"
+        android:id="@+id/app_bar"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+                <com.google.android.material.appbar.CollapsingToolbarLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    app:layout_scrollFlags="scroll|enterAlways|enterAlwaysCollapsed|snap"
+                    app:contentScrim="@color/green"
+                    app:toolbarId="@id/toolbar"
+                    >
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop"
+                            android:fitsSystemWindows="true"
+                            android:src="@drawable/gabus_pucung"
+                            app:layout_collapseMode="parallax"/>
+
+
+                        <androidx.appcompat.widget.Toolbar
+                            android:layout_width="match_parent"
+                            android:layout_height="?attr/actionBarSize"
+                            android:id="@+id/toolbar"
+                            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                            app:layout_collapseMode="pin"
+                            />
+                </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollTxt"
+        android:paddingBottom="100dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="15dp"
+        >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/decs"
+                android:text="@string/gabus1"
+                android:layout_centerVertical="true"
+                android:paddingTop="30dp"
+                android:layout_marginBottom="-10dp"
+                />
+
+            <GridView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/gridHarga"
+                android:numColumns="1"
+                android:layout_marginTop="20dp"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:background="@color/black"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/thumnaila1"
+                android:layout_below="@id/moreInfo"
+                android:scaleType="fitXY"
+                android:layout_marginVertical="30dp"
+                android:onClick="youtube"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/decs2"
+                android:text="@string/gabus2"
+                android:layout_centerVertical="true"
+                android:paddingBottom="-30dp"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/moreInfo"
+                android:text="More Info..."
+                android:textColor="@color/purple_700"
+                android:onClick="moreInfo"
+                />
+
+        </LinearLayout>
+
+
+    </androidx.core.widget.NestedScrollView>
+
+
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="30dp"
+        android:onClick="gmaps"
+        android:layout_marginRight="30dp"
+        app:srcCompat="@android:drawable/ic_menu_mapmode" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
